@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Sono Matteo statistico e data scientist di professione.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ho principalmente due passioni che muovono la mia esistenza:
+ - tutto quello che ruota intorno al mondo dei dati,
+ - avviare dei progetti per poi lasciarli inconclusi.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+L'idea di questo blog è provare a mettere insieme queste due passioni, cercando di spiegare i fenomeni che muovono il territorio in cui vivo proprio dai dati originati sullo stesso territorio, sperdando che anche il blog stesso non ricada nella seconda categoria!
