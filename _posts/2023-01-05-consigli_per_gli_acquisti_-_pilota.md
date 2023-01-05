@@ -33,18 +33,18 @@ Il perimetro disponibile ad oggi non ci permette ancora di identificare ciclicit
 
 ##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 macro blocchi: _immobili_, _market **@trovare un nome diverso@**_, _servizi_, _veicoli_. 
+Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 catgorie: _immobili_, _occasioni_, _servizi_, _veicoli_. 
 
 Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato nel seguente modo:
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 60%">
+            width: 70%">
 
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
 |Immobili   |6.769 (5%)   |1,8Mld (69%) |
-|Market     |68.386  (50%)|24,3Mln (1%) |
+|Occasioni  |68.386  (50%)|24,3Mln (1%) |
 |Servizi    |4.489  (3%)  |5,8Mln (0%)  |
 |Veicoli    |57.051 (42%) |789Mln (30%) |
 |**TOTALE** |**136.695**| **2,659Mld**  |
@@ -55,18 +55,16 @@ Da questa prima rappresentazione emerge che circa il 47% pubblicati rappresentan
 
 Essendo un mercato molto particolare quello degli immobili condurremo l'analisi dividendola in due sezioni:
 
-* mercato dell'usato;
+* mercato dell'usato (occasioni, servizi, veicoli);
 * mercato degli immobili.
 
 Per questa prima fase ci concentreremo sul mercato dell'usato.
 
 ##### TREND E PUBBLICAZIONE DEGLI ANNUNCI
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 80%">
+<div style="margin-left: auto;margin-right: auto;width: 100%">
 
-![](../assets/img/CPGA_PILOTA/test_trend.png)
+![](../assets/img/CPGA_PILOTA/daily_trend.png)
 
 </div>
 
