@@ -31,30 +31,47 @@ Ho realizzato così un semplice tool che facesse il lavoro per me. Giornalmente 
 
 Il perimetro disponibile ad oggi non ci permette ancora di identificare ciclicità sul medio periodo, ma ci permette di avere informazioni di base sul mercato che stiamo osservando.
 
-* PERIMETRO E DATI DISPONIBILI
+##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 150.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 macro blocchi: _immobili_, _market **@trovare un nome diverso@**_, _servizi_, _veicoli_. 
+Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 macro blocchi: _immobili_, _market **@trovare un nome diverso@**_, _servizi_, _veicoli_. 
 
 Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato nel seguente modo:
 
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
-|Immobili   |8.134 (5%)   |2.2Mld (72%) |
-|Market     |77.830 (51%) |26.5Mln (1%) |
-|Servizi    |5.038  (3%)  |6.3Mln (0%)  |
-|Veicoli    |61.061 (40%) |823Mln (27%) |
-|**TOTALE** |**152.063**| **3,095Mld**  |
+|Immobili   |6.769 (5%)   |1,8Mld (69%) |
+|Market     |68.386  (50%)|24,3Mln (1%) |
+|Servizi    |4.489  (3%)  |5,8Mln (0%)  |
+|Veicoli    |57.051 (42%) |789Mln (30%) |
+|**TOTALE** |**136.695**| **2,659Mld**  |
 
-Da questa prima rappresentazione emerge che circa il 45% degli annunci che possono essere trovati su internet rappresentano il 99% del valore economico del mercato dell'usato. 
+</div>
 
-Analizzando due mercati così diversi tra di loro come quello dell'usato e quello degli immobili, ci potrebbe portare a delle considerazioni sbagliate in fase di analisi. Opteremo quindi per dividere gli argomenti trattati in questa serie in due filoni:
+Da questa prima rappresentazione emerge che circa il 47% pubblicati rappresentano il 99% del valore economico del mercato dell'usato. 
 
- * _Mercato dell'usato_ 
- * _Mercato degli immobili_
+Essendo un mercato molto particolare quello degli immobili condurremo l'analisi dividendola in due sezioni:
+
+* mercato dell'usato;
+* mercato degli immobili.
+
+Per questa prima fase ci concentreremo sul mercato dell'usato.
+
+##### TREND E PUBBLICAZIONE DEGLI ANNUNCI
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 80%">
+
+![](../assets/img/CPGA_PILOTA/test_trend.png)
+
+</div>
 
 
-## CONTINUA DA QUI
-
+---
 
 
 * DIMESIONE DEL MERCATO ANALIZZATO
