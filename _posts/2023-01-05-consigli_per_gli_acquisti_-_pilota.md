@@ -37,9 +37,6 @@ Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta a
 
 Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato nel seguente modo:
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 70%">
 
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
@@ -48,8 +45,6 @@ Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato 
 |Servizi    |4.489  (3%)  |5,8Mln (0%)  |
 |Veicoli    |57.051 (42%) |789Mln (30%) |
 |**TOTALE** |**136.695**| **2,659Mld**  |
-
-</div>
 
 Da questa prima rappresentazione emerge che circa il 47% pubblicati rappresentano il 99% del valore economico del mercato dell'usato. 
 
@@ -62,11 +57,7 @@ Per questa prima fase ci concentreremo sul mercato dell'usato.
 
 ##### TREND E PUBBLICAZIONE DEGLI ANNUNCI
 
-<div style="margin-left: auto;margin-right: auto;width: 100%">
-
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
-
-</div>
 
 
 ---
