@@ -33,7 +33,7 @@ Il perimetro disponibile ad oggi non ci permette ancora di identificare ciclicit
 
 ##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 catgorie: _immobili_, _occasioni_, _servizi_, _veicoli_. 
+Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 catgorie: _immobili_, _usato_, _servizi_, _veicoli_. 
 
 Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato nel seguente modo:
 
@@ -41,7 +41,7 @@ Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato 
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
 |Immobili   |6.769 (5%)   |1,8Mld (69%) |
-|Occasioni  |68.386  (50%)|24,3Mln (1%) |
+|Usato      |68.386  (50%)|24,3Mln (1%) |
 |Servizi    |4.489  (3%)  |5,8Mln (0%)  |
 |Veicoli    |57.051 (42%) |789Mln (30%) |
 |**TOTALE** |**136.695**| **2,659Mld**  |
@@ -50,14 +50,22 @@ Da questa prima rappresentazione emerge che circa il 47% pubblicati rappresentan
 
 Essendo un mercato molto particolare quello degli immobili condurremo l'analisi dividendola in due sezioni:
 
-* mercato dell'usato (occasioni, servizi, veicoli);
-* mercato degli immobili.
+* mercato delle occasioni di seconda mano (usato, veicoli);
+* mercato degli immobili;
+* servizi.
 
-Per questa prima fase ci concentreremo sul mercato dell'usato.
+Per questa prima fase ci concentreremo sul mercato **delle occasioni di seconda mano**.
 
-##### TREND E PUBBLICAZIONE DEGLI ANNUNCI
+##### TREND DI PUBBLICAZIONE DEGLI ANNUNCI
+
+
 
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
+
+--> distribuzione oraria
+--> ripartizine degli annunci cumulata nel giorno per mostrare dopo che ora gran parte degli annunci sono stati già pubblicati
+--> mostrare che per le auto si può aspettare 2 ore in meno
+--> far vedere che gran parte del mercato dell'auto è composto da annunci proposti da società
 
 
 ---
