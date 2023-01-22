@@ -33,46 +33,47 @@ Il perimetro disponibile ad oggi non ci permette ancora di identificare ciclicit
 
 ##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi il database contiene gli annunci pubblicati da Novembre in poi e conta al proprio interno più di 135.000 annunci, pubblicati all'interno della provincia di Bologna, per un valore complessivo di circa 3Mld di euro. La base dati è idealmente divisibile in 4 catgorie: _immobili_, _usato_, _servizi_, _veicoli_. 
-
-Rispettivamente le quattro cateogorie sopra indicate si ripartiscono il mercato nel seguente modo:
-
+Ad oggi è possibile analizzare circa 132.000 annunci pubblicati da Novembre in poi nella provincia di Bologna. 
+Complessivamente cubano circa 1,3Mld di euro e possiamo distinguere 4 macro catgorie: _immobili_, _usato_, _servizi_, _veicoli_.
 
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
-|Immobili   |6.769 (5%)   |1,8Mld (69%) |
-|Usato      |68.386  (50%)|24,3Mln (1%) |
+|Immobili   |2.265 (2%)   |501Mln (38%) |
+|Usato      |68.386  (52%)|24,3Mln (2%) |
 |Servizi    |4.489  (3%)  |5,8Mln (0%)  |
-|Veicoli    |57.051 (42%) |789Mln (30%) |
-|**TOTALE** |**136.695**| **2,659Mld**  |
+|Veicoli    |57.051 (43%) |789Mln (60%) |
+|**TOTALE** |**132.191**| **1,321Mld**  |
 
-Da questa prima rappresentazione emerge che circa il 47% pubblicati rappresentano il 99% del valore economico del mercato dell'usato. 
+Si può notare quindi che il 45% pubblicati rappresentano il 98% del valore economico complessivo. 
 
-Essendo un mercato molto particolare quello degli immobili condurremo l'analisi dividendola in due sezioni:
+Essendo quindi mercati molto diversi per loro natura proveremo a dividere in tre mercati le inserzioni, ovvero:
 
-* mercato delle occasioni di seconda mano (usato, veicoli);
-* mercato degli immobili;
+* occasioni di seconda mano (usato, veicoli);
+* immobili;
 * servizi.
-
-Per questa prima fase ci concentreremo sul mercato **delle occasioni di seconda mano**.
 
 ##### TREND DI PUBBLICAZIONE DEGLI ANNUNCI
 
-
+Già dai primi macro numeri è semplice capire quanto il mercato che vogliamo esplorare sia ricco e vivo e quindi la prima domanda: quanti annunci circolano mediamente al giorno?
 
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
 
+Dal grafico infatti si vede che settimanalmente vengono pubblicati circa XXX mila annci, per una media di XXX mila al giorno. 
+È curioso osservare come il periodo natalizio ha portato a una riduzione di circa XXX mila annunci, mentre nel periodo post feste la media degli annuci è più alta del XXX% di quella prefestiva. 
+
+**--> far vedere che gran parte del mercato dell'auto e degli immobili è composto da annunci proposti da società**
+
+
+
+
 --> distribuzione oraria
 --> ripartizine degli annunci cumulata nel giorno per mostrare dopo che ora gran parte degli annunci sono stati già pubblicati
---> mostrare che per le auto si può aspettare 2 ore in meno
---> far vedere che gran parte del mercato dell'auto è composto da annunci proposti da società
+--> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
 
 
 ---
 
-
-* DIMESIONE DEL MERCATO ANALIZZATO
-* PUBBLICAZIONE DEGLI ANNUNCI CON DIMENSIONI TEMPORALI
+Per questa prima fase ci concentreremo sul mercato **delle occasioni di seconda mano**.
 
 ## OBIETTIVI: CERCARE ABITUDINI DI COMPORTAMENTO DEGLI UTENTI ATTIVI SUI MERCATI DELL'USATO. 
 
