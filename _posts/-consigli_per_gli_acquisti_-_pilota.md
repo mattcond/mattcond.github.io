@@ -58,18 +58,30 @@ Già dai primi macro numeri è semplice capire quanto il mercato che vogliamo es
 
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
 
-Dal grafico infatti si vede che settimanalmente vengono pubblicati circa XXX mila annci, per una media di XXX mila al giorno. 
-È curioso osservare come il periodo natalizio ha portato a una riduzione di circa XXX mila annunci, mentre nel periodo post feste la media degli annuci è più alta del XXX% di quella prefestiva. 
-
-**--> far vedere che gran parte del mercato dell'auto e degli immobili è composto da annunci proposti da società**
-
-
-
+Dal grafico infatti si vede che settimanalmente gli annunci pubblicati sono circa XXX mila, in media di XXX mila al giorno. 
 
 --> distribuzione oraria
+
+
+
+
+
 --> ripartizine degli annunci cumulata nel giorno per mostrare dopo che ora gran parte degli annunci sono stati già pubblicati
 --> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
 
+
+È curioso notare come il periodo natalizio ha indotto una riduzione di circa XXX mila annunci, per poi riprendere con un incremento del XXX%. 
+Questo fenomeno è spiegabile dall'inattività degli utenti privati e dalle interruzioni delle attività lavorative delle società.
+
+I mercati analizzati si distinguono principalmente per il tipo utente che è possibile contattare. Infatti osservando gli annunci nel perimetro divisi per tipo di utente si può notare che le società pubblicano rispettivamente 75% e 85% degli annunci degli immobili e dei veicoli.
+
+![](../assets/img/CPGA_PILOTA/distribuzione_pvt_bsn.png)
+
+
+**--> far vedere che gran parte del mercato dell'auto e degli immobili è composto da annunci proposti da società**
+
+--> mostrare lo scostamento dei prezzi per gli articoli venduti dalle società e dagli utenti privati
+--> conclusioni e rimando al prossimo articolo
 
 ---
 
