@@ -54,26 +54,30 @@ Essendo quindi mercati molto diversi per loro natura proveremo a dividere in tre
 
 ##### TREND DI PUBBLICAZIONE DEGLI ANNUNCI
 
-Già dai primi macro numeri è semplice capire quanto il mercato che vogliamo esplorare sia ricco e vivo e quindi la prima domanda: quanti annunci circolano mediamente al giorno?
+Già dai primi macro numeri è semplice capire quanto il mercato che vogliamo esplorare sia ricco e vivo e quindi la prima domanda a cui riusciamo a rispondere è: quanti annunci circolano mediamente al giorno?
 
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
 
-Dal grafico infatti si vede che settimanalmente gli annunci pubblicati sono circa XXX mila, in media di XXX mila al giorno. 
-
---> distribuzione oraria
-
-
-
-
-
---> ripartizine degli annunci cumulata nel giorno per mostrare dopo che ora gran parte degli annunci sono stati già pubblicati
---> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
-
+Dal grafico infatti si vede che settimanalmente gli annunci pubblicati sono circa XXX mila, con una media di XXX mila al giorno. 
 
 È curioso notare come il periodo natalizio ha indotto una riduzione di circa XXX mila annunci, per poi riprendere con un incremento del XXX%. 
 Questo fenomeno è spiegabile dall'inattività degli utenti privati e dalle interruzioni delle attività lavorative delle società.
 
-I mercati analizzati si distinguono principalmente per il tipo utente che è possibile contattare. Infatti osservando gli annunci nel perimetro divisi per tipo di utente si può notare che le società pubblicano rispettivamente 75% e 85% degli annunci degli immobili e dei veicoli.
+--> distribuzione oraria
+
+Come è facile immaginare anche all'interno della giornata sono presenti delle fasce orarie in cui è presente una concentrazione maggiore degli annunci pubblicati. 
+
+![](../assets/img/CPGA_PILOTA/ripartizione_oraria.png)
+
+Questo dipende principalmente se l'autore dell'annuncio è un azienda o un utente privato, perchè nel primo caso si osserva che l'80% degli annunci inseriti all'interno di una giornata vengono pubblicati non oltre le 16. Osservando invece lo stesso fenomeno sugli annunci pubblicati da utenti privati bisognerà aspettare le 20 affinche siano stati inseriti l'80% degli annunci totali. 
+
+![](../assets/img/CPGA_PILOTA/ripartizione_oraria_cumulata.png)
+
+--> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
+
+**Questo ci aiuta a capire il momento migliore della giornata entro cui osservare gli annunci per avere un quadro completo di tutti quelli pubblicati.**
+
+Come anticipato gli annunci che stiamo osservando si caratterizzano principalmente per il tipo utente li pubblica. Infatti osservando gli annunci nel perimetro divisi per tipo di utente si può notare che le società pubblicano rispettivamente 75% e 85% degli annunci degli immobili e dei veicoli.
 
 ![](../assets/img/CPGA_PILOTA/distribuzione_pvt_bsn.png)
 
