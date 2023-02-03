@@ -69,13 +69,16 @@ Come è facile immaginare anche all'interno della giornata sono presenti delle f
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria.png)
 
-Questo dipende principalmente se l'autore dell'annuncio è un azienda o un utente privato, perchè nel primo caso si osserva che l'80% degli annunci inseriti all'interno di una giornata vengono pubblicati non oltre le 16. Osservando invece lo stesso fenomeno sugli annunci pubblicati da utenti privati bisognerà aspettare le 20 affinche siano stati inseriti l'80% degli annunci totali. 
+Questo dipende principalmente se l'autore dell'annuncio è un azienda o un utente privato, perchè nel primo caso si osserva che l'80% degli annunci inseriti all'interno di una giornata vengono pubblicati non oltre le ore 16. Osservando invece lo stesso fenomeno sugli annunci pubblicati da utenti privati bisognerà aspettare le 20 affinche siano stati inseriti almeno l'80% degli annunci totali. 
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria_cumulata.png)
 
 --> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
 
 **Questo ci aiuta a capire il momento migliore della giornata entro cui osservare gli annunci per avere un quadro completo di tutti quelli pubblicati.**
+
+Vista la presenza 
+
 
 Come anticipato gli annunci che stiamo osservando si caratterizzano principalmente per il tipo utente li pubblica. Infatti osservando gli annunci nel perimetro divisi per tipo di utente si può notare che le società pubblicano rispettivamente 75% e 85% degli annunci degli immobili e dei veicoli.
 
