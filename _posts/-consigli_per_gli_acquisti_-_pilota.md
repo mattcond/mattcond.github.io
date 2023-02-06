@@ -77,10 +77,7 @@ Questo dipende principalmente se l'autore dell'annuncio è un azienda o un utent
 
 **Questo ci aiuta a capire il momento migliore della giornata entro cui osservare gli annunci per avere un quadro completo di tutti quelli pubblicati.**
 
-Vista la presenza 
-
-
-Come anticipato gli annunci che stiamo osservando si caratterizzano principalmente per il tipo utente li pubblica. Infatti osservando gli annunci nel perimetro divisi per tipo di utente si può notare che le società pubblicano rispettivamente 75% e 85% degli annunci degli immobili e dei veicoli.
+Questa tipologia di utenti così segmentata ci fa intuire che alcune categorie di prodotto potrebbero essere prerogativa di uno dei due tipi di utente. Si nota infatti che tra il 75% e 85% degli annunci di immobili e veicoli sono pubblicati da aziente. Questo ci fa capire che gli annunci di queste categorie risultano più vicini a delle campagne di marketing.
 
 ![](../assets/img/CPGA_PILOTA/distribuzione_pvt_bsn.png)
 
