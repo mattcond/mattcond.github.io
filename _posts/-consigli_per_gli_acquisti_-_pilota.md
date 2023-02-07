@@ -69,7 +69,7 @@ Come è facile immaginare anche all'interno della giornata sono presenti delle f
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria.png)
 
-Questo dipende principalmente se l'autore dell'annuncio è un azienda o un utente privato, perchè nel primo caso si osserva che l'80% degli annunci inseriti all'interno di una giornata vengono pubblicati non oltre le ore 16. Osservando invece lo stesso fenomeno sugli annunci pubblicati da utenti privati bisognerà aspettare le 20 affinche siano stati inseriti almeno l'80% degli annunci totali. 
+Questo dipende principalmente dall'autore dell'annuncio: se è un azienda l'80% degli annunci totali saranno pubblicati non oltre le 16. Lo stesso fenomeno osservato sugli annunci degli utenti privati ci mostra che bisognerà aspettare fino alle 20 per poter scorrere l'80% degli annunci totali. 
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria_cumulata.png)
 
