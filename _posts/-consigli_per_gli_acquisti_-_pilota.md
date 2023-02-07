@@ -74,6 +74,6 @@ Questa tipologia di utenti così ripartita ci fa pensare che alcune categorie di
 
 ![](../assets/img/CPGA_PILOTA/distribuzione_pvt_bsn.png)
 
-Avere due tipi di inserzionisti presenta inoltre delle ripercussioni sulle fasce di prezzo dei prodotti pubblicizzati che variano ad esempio **da un +40% sugli appartamenti e un +120% sulle auto**. Questo è giustificato dalla necessità per le aziende di realizzazione dei margini di vendita, dalla migliore qualità del prodotto venduto e alla coerenza del prezzo indicato con valore il di mercato del prodotto.
+Avere due tipi di inserzionisti presenta delle ripercussioni sulle fasce di prezzo dei prodotti pubblicizzati che variano ad esempio **con un +40% sugli appartamenti e un +120% sulle auto**. Questo è giustificato dalla necessità per le aziende di realizzazione dei margini di vendita, dalla migliore qualità del prodotto venduto e alla coerenza del prezzo indicato con valore il di mercato del prodotto.
 
 Si conclude quindi il pilota di questa serie, dove sono state raccolte **solo le prime evidenze del mercato che vorremmo analizzare** nei prossimi articoli.
