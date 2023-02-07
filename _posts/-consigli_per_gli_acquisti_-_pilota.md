@@ -5,36 +5,33 @@ subtitle: Vorrei acquistare una bicicletta a Bologna
 tags: [mercato, test]
 ---
 
-## Acquistare una bici a Bologna
+## Acquistare una bicicletta a Bologna
 
-L'idea alla base di questo blog e della realizzazione questa serie nasce da un esigenza che come me penso chiunque abiti o abbia abitato a Bologna ha sentito: **acquistare una bicicletta**. 
+L'idea alla base di questo blog e della realizzazione questa serie nasce dalla grande difficoltà riscontrata a compiere un'azione semplicissima: **acquistare una bicicletta a Bologna**.
 
-Un'altra cosa ben nota per chi vive a Bologna è che le biciclette sono come gli ombrelli, se ti distrai per qualche minuto rischi di non ritrovarla più. 
-Quindi prima di pensare di acquistare una bicicletta nuova fiammante ho cercato di capire se fosse possibile acquistarne una di seconda mano. 
+Essendo uno degli oggetti più rubati in città l'obiettivo è sempre stato quello di acquistarne una di seconda mano, arrivando a constatare che **è molto difficile acquistare una bicicletta a Bologna di seconda mano**. 
 
-Con questa convinzione ho iniziato la ricerca del mio futuro bolide, ma in pochissimo tempo mi sono scontrato con una grande certezza: **è molto difficile acquistare una bicicletta a Bologna di seconda mano**. 
+La "difficoltà" non è dettata da un mercato poco attivo, tutt'altro. La difficoltà principale è quella di riuscire a contattare un venditore come primo acquirente, nonostante l'articolo sia stato pubblicato solo da poche ore. 
 
-La _difficoltà_ nell'acquisto non è dovuta alla carenza del prodotto o a un mercato poco attivo, tutt'altro. La difficoltà è quella di riuscire a contattare un venditore come primo acquirente, anche se l'articolo è stato pubblicato solo da poche ore. 
-
-Da questa esperienza mi sono posto alcune domande, come ad esempio:
-* esiste un momento migliore del giorno o periodo dell'anno per cercare una bicicletta?
+Con questa esperienza mi sono posto alcune domande:
+* esiste un momento del giorno, o periodo dell'anno, migliore per cercare un articolo?
 * ci sono ciclicità nei movimenti di domanda e offerta del mercato dell'usato?
 * dopo quanto tempo un annuncio risulta non più disponibile?
-* generalizzando questo concetto, quali sono gli articoli maggiormente scambiati e come sono distribuiti sul territorio?
+* quali sono gli articoli maggiormente scambiati e come sono distribuiti sul territorio?
 * è possibile determinare in anticipo il miglior prezzo d'acquisto e identificare i prodotti migliori?   
 
 ## Dalla raccolta dati ai primi analytics
 
-Avevo quindi definito lo scopo ma non avevo a disposizione una base su cui lavorare, quindi ho docuto reperire i dati sugli annunci. 
+Definito lo scopo è stato necessario raccogliere i dati su cui poter lavorare, ovvero reperire le informazioni dagli annunci. 
 
-Ho realizzato così un semplice tool che facesse il lavoro per me. Giornalmente si è occupato di controllare gli annunci e ne trovasse di nuovi li registrasse in un database.
+Con la costruzione di un semplice tool che facesse il lavoro per me, giornalmente è stato possibile controllare tutti gli annunci pubblicati.
 
-Il perimetro disponibile ad oggi non ci permette ancora di identificare ciclicità sul medio periodo, ma ci permette di avere informazioni di base sul mercato che stiamo osservando.
+Il perimetro disponibile ad oggi nonostante sia molto ricco, non ci permette ancora di identificare ciclicità di medio periodo, ma è ampiamente sufficiente per identificare degli insight sul mercato che stiamo osservando.
 
 ##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi è possibile analizzare circa 132.000 annunci pubblicati da Novembre in poi nella provincia di Bologna. 
-Complessivamente cubano circa 1,3Mld di euro e possiamo distinguere 4 macro catgorie: _immobili_, _usato_, _servizi_, _veicoli_.
+Ad oggi è possibile analizzare circa xxx.000 annunci pubblicati da Novembre in poi nella provincia di Bologna, da arricchire con un ulteriore set relativo al solo mercato immobiliare, ancora in via di definizione.
+Possiamo distinguere 4 categorie di prodotti: _immobili_, _usato_, _servizi_, _veicoli_.
 
 |Segmento   | Annunci     | Valore      |
 |:---------:|:-----------:|:-----------:|
@@ -44,9 +41,9 @@ Complessivamente cubano circa 1,3Mld di euro e possiamo distinguere 4 macro catg
 |Veicoli    |57.051 (43%) |789Mln (60%) |
 |**TOTALE** |**132.191**| **1,321Mld**  |
 
-Si può notare quindi che il 45% pubblicati rappresentano il 98% del valore economico complessivo. 
+Dalla distribuzione si vede chiaramente che **il 45% pubblicati rappresentano il 98% del valore economico complessivo**.  
 
-Essendo quindi mercati molto diversi per loro natura proveremo a dividere in tre mercati le inserzioni, ovvero:
+Essendo mercati molto diversi, proveremo ad analizzarli separatamente aggregandoli in tre sezioni:
 
 * occasioni di seconda mano (usato, veicoli);
 * immobili;
@@ -54,45 +51,29 @@ Essendo quindi mercati molto diversi per loro natura proveremo a dividere in tre
 
 ##### TREND DI PUBBLICAZIONE DEGLI ANNUNCI
 
-Già dai primi macro numeri è semplice capire quanto il mercato che vogliamo esplorare sia ricco e vivo e quindi la prima domanda a cui riusciamo a rispondere è: quanti annunci circolano mediamente al giorno?
+Le statistiche viste in precedenza ci indicano chiaramente quanto il mercato da esplorare sia ricco e vivo. La prima domanda, quindi, a cui proviamo a rispondere è: **quanti annunci vengono pubblicati in una settimana?**
 
 ![](../assets/img/CPGA_PILOTA/daily_trend.png)
 
-Dal grafico infatti si vede che settimanalmente gli annunci pubblicati sono circa XXX mila, con una media di XXX mila al giorno. 
+Dal grafico vediamo chiaramente che settimanalmente vengono inserivi circa XXX mila annunci, con una media di XXX mila per giorno. 
 
 È curioso notare come il periodo natalizio ha indotto una riduzione di circa XXX mila annunci, per poi riprendere con un incremento del XXX%. 
-Questo fenomeno è spiegabile dall'inattività degli utenti privati e dalle interruzioni delle attività lavorative delle società.
+Questo fenomeno chiaramente riconducibile all'inattività degli utenti privati e dalle interruzioni delle attività lavorative delle società.
 
---> distribuzione oraria
-
-Come è facile immaginare anche all'interno della giornata sono presenti delle fasce orarie in cui è presente una concentrazione maggiore degli annunci pubblicati. 
+Osservando sempre più nel dettaglio anche all'interno della giorno sono presenti delle fasce orarie in cui è presente una concentrazione maggiore degli annunci pubblicati. 
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria.png)
 
-Questo dipende principalmente dall'autore dell'annuncio: se è un azienda l'80% degli annunci totali saranno pubblicati non oltre le 16. Lo stesso fenomeno osservato sugli annunci degli utenti privati ci mostra che bisognerà aspettare fino alle 20 per poter scorrere l'80% degli annunci totali. 
+Questo è frutto principalmente dall'autore dell'annuncio: per le azienda l'80% degli annunci totali vengono pubblicati entro e non oltre le 16. Osservando invece gli annunci degli utenti privati bisognerà aspettare fino alle 20 per poter scorrere almeno l'80% degli annunci totali. 
 
 ![](../assets/img/CPGA_PILOTA/ripartizione_oraria_cumulata.png)
 
---> mostrare che per le auto si può aspettare 2 ore in meno in quanto gli annunci sono legati alle società che li pubblicano
+**Questo ci aiuta a individuare il momento migliore della giornata entro cui osservare gli annunci per avere un quadro completo di tutti a disposizione.**
 
-**Questo ci aiuta a capire il momento migliore della giornata entro cui osservare gli annunci per avere un quadro completo di tutti quelli pubblicati.**
-
-Questa tipologia di utenti così segmentata ci fa intuire che alcune categorie di prodotto potrebbero essere prerogativa di uno dei due tipi di utente. Si nota infatti che tra il 75% e 85% degli annunci di immobili e veicoli sono pubblicati da aziente. Questo ci fa capire che gli annunci di queste categorie risultano più vicini a delle campagne di marketing.
+Questa tipologia di utenti così ripartita ci fa pensare che alcune categorie di prodotto potrebbero essere prerogativa di una delle due categorie. Si nota infatti che **tra il 75% e 85% degli annunci di immobili e veicoli vengono pubblicati dalle aziende**. Queste categorie di annunci risultano delle vere e campagne di marketing.
 
 ![](../assets/img/CPGA_PILOTA/distribuzione_pvt_bsn.png)
 
+Avere due tipi di inserzionisti presenta inoltre delle ripercussioni sulle fasce di prezzo dei prodotti pubblicizzati che variano ad esempio **da un +40% sugli appartamenti e un +120% sulle auto**. Questo è giustificato dalla necessità per le aziende di realizzazione dei margini di vendita, dalla migliore qualità del prodotto venduto e alla coerenza del prezzo indicato con valore il di mercato del prodotto.
 
-**--> far vedere che gran parte del mercato dell'auto e degli immobili è composto da annunci proposti da società**
-
---> mostrare lo scostamento dei prezzi per gli articoli venduti dalle società e dagli utenti privati
---> conclusioni e rimando al prossimo articolo
-
----
-
-Per questa prima fase ci concentreremo sul mercato **delle occasioni di seconda mano**.
-
-## OBIETTIVI: CERCARE ABITUDINI DI COMPORTAMENTO DEGLI UTENTI ATTIVI SUI MERCATI DELL'USATO. 
-
-## A CHI TI RIVOLGI?
-* ### PERSONE INTERESSATE A STUDI DI SETTORE
-* ### CHIUNQUE PRENDA IN CONSIDERAZIONE UN ACQUISTO DI SECONDA MANO
+Si conclude quindi il pilota di questa serie, dove sono state raccolte **solo le prime evidenze del mercato che vorremmo analizzare** nei prossimi articoli.
