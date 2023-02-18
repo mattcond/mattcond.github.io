@@ -26,18 +26,12 @@ Il perimetro disponibile ad oggi nonostante sia molto ricco, non ci permette anc
 
 ##### PERIMETRO E DATI DISPONIBILI
 
-Ad oggi è possibile analizzare circa xxx.000 annunci pubblicati da Novembre in poi nella provincia di Bologna, da arricchire con un ulteriore set relativo al solo mercato immobiliare, ancora in via di definizione.
+Ad oggi è possibile analizzare circa 215.000 annunci pubblicati da Novembre in poi nella provincia di Bologna, da arricchire con un ulteriore set relativo al solo mercato immobiliare, ancora in via di definizione.
 Possiamo distinguere principalmente quattro categorie: _immobili_, _usato_, _servizi_, _veicoli_.
 
-|Segmento   | Annunci     | Valore      |
-|:---------:|:-----------:|:-----------:|
-|Immobili   |2.265 (2%)   |501Mln (38%) |
-|Usato      |68.386  (52%)|24,3Mln (2%) |
-|Servizi    |4.489  (3%)  |5,8Mln (0%)  |
-|Veicoli    |57.051 (43%) |789Mln (60%) |
-|**TOTALE** |**132.191**| **1,321Mld**  |
+![](../assets/img/CPGA_PILOTA/segmento-annunci.png)
 
-La tabella rappresenta la distribuzione degli articoli tra le categorie, mostrando che **il 45% degli annunci pubblicati rappresentano il 98% del valore economico complessivo**, e si concentrano principalmente tra veicoli e immobili.  
+La tabella rappresenta la distribuzione degli articoli tra le categorie, mostrando che **il 27% degli annunci pubblicati rappresentano il 98% del valore economico complessivo**, e si concentrano principalmente tra veicoli e immobili.  
 Essendo mercati molto diversi tra loro saranno analizzati separatamente, dividendole in tre sezioni:
 
 * occasioni di seconda mano (usato, veicoli);
@@ -58,7 +52,7 @@ Dal grafico vediamo che settimanalmente vengono pubblicati circa XXX mila annunc
 
 Osservando sempre più nel dettaglio anche all'interno della giorno sono presenti dei momenti in cui è presente una concentrazione maggiore degli annunci presenti in rete. 
 
-![](../assets/img/CPGA_PILOTA/ripartizione_oraria.png)
+![](../assets/img/CPGA_PILOTA/distribuzione_oraria.png)
 
 Questo comportamento è dovuto principalmente dal tipo di utenti presenti, ovvero le aziende e gli utenti privati. Per le azienda tra le 8 e le 16 è possibile vengono pubblicati più del 70% degli annunci totali. Osservando lo stesso fenomeno per gli utenti privati si nota che un buon numero di annunci sono disponibili dalle 10 in poi e sarà necessario aspettare le 20 per poter scorrere almeno l'80% del totale. 
 
