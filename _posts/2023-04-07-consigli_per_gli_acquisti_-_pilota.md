@@ -2,7 +2,7 @@
 layout: post
 title:  Consigli per gli acquisti - PILOTA
 subtitle: Vorrei acquistare una bicicletta a Bologna
-tags: [mercato, test]
+tags:
 ---
 
 ## Acquistare una bicicletta a Bologna
