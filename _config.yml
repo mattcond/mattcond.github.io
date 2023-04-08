@@ -52,8 +52,8 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "miscidata.mc@gmail.com"
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: mattcond
 #  twitter: daattali
@@ -91,7 +91,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   # vk: false
 
